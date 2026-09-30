@@ -1,4 +1,4 @@
-#  Multi-Agent AI Research System
+# Research OS
 
 > A production-style multi-agent pipeline that performs end-to-end research using web data, Retrieval-Augmented Generation (RAG), and quantitative evaluation with RAGAS.
 
